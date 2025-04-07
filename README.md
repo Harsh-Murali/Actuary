@@ -1,4 +1,4 @@
-# Actuary
+# Actuarial Project
 
 
 # NDIS Cost Forecasting Optimizer
